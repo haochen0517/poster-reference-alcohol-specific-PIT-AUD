@@ -1,6 +1,14 @@
-# References
+# Enhanced Alcohol-Specific Pavlovian-to-Instrumental Transfer in Alcohol Use Disorder
 
-References for the poster: **Enhanced Alcohol-Specific Pavlovian-to-Instrumental Transfer in Alcohol Use Disorder**
+**Poster references and additional literature**
+
+**Presenter:** Hao Chen  
+**Affiliation:** Department of Psychiatry and Psychotherapy, Faculty of Medicine Carl Gustav Carus, Technische Universität Dresden, Dresden, Germany  
+**Contact:** hao.chen@tu-dresden.de  
+
+---
+
+## References
 
 1. Hogarth, L., Balleine, B. W., Corbit, L. H., & Killcross, S. (2013). Associative learning mechanisms underpinning the transition from recreational drug use to addiction. *Annals of the New York Academy of Sciences, 1282*, 12–24. https://doi.org/10.1111/j.1749-6632.2012.06768.x
 
@@ -15,4 +23,3 @@ References for the poster: **Enhanced Alcohol-Specific Pavlovian-to-Instrumental
 6. Garbusow, M., Schad, D. J., Sebold, M., Friedel, E., Bernhardt, N., Koch, S. P., Steinacher, B., Kathmann, N., Geurts, D. E. M., Sommer, C., Müller, D. K., Nebe, S., Paul, S., Wittchen, H.-U., Zimmermann, U. S., Walter, H., Smolka, M. N., Sterzer, P., Rapp, M. A., Huys, Q. J. M., Schlagenhauf, F., & Heinz, A. (2016). Pavlovian-to-instrumental transfer effects in the nucleus accumbens relate to relapse in alcohol dependence. *Addiction Biology, 21*(3), 719–731. https://doi.org/10.1111/adb.12243
 
 7. Belanger, M. J., Chen, H., Hentschel, A., Garbusow, M., Ebrahimi, C., Knorr, F. G., Zech, H. G., Pilhatsch, M., Heinz, A., & Smolka, M. N. (2022). Development of novel tasks to assess outcome-specific and general Pavlovian-to-instrumental transfer in humans. *Neuropsychobiology, 81*(5), 370–386. https://doi.org/10.1159/000526774
-
