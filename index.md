@@ -1,6 +1,7 @@
 # References
 
-References for the poster: **Alcohol-specific and general Pavlovian-to-instrumental transfer in alcohol use disorder**
+References for the poster: **Enhanced Alcohol-Specific Pavlovian-to-Instrumental Transfer in Alcohol Use Disorder<img width="5493" height="315" alt="image" src="https://github.com/user-attachments/assets/22d97aab-4bf9-4b9c-8069-08cb062e194d" />
+**
 
 1. Hogarth, L., Balleine, B. W., Corbit, L. H., & Killcross, S. (2013). Associative learning mechanisms underpinning the transition from recreational drug use to addiction. *Annals of the New York Academy of Sciences, 1282*, 12–24. https://doi.org/10.1111/j.1749-6632.2012.06768.x
 
